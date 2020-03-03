@@ -3,7 +3,7 @@
 
 #include <QMainWindow>
 
-//  jakaś poprawka
+//  jakaś poprawka ................................
 namespace Ui {
 class MainWindow;
 }
