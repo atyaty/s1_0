@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 
+//  jakaś poprawka
 namespace Ui {
 class MainWindow;
 }
